@@ -1,0 +1,13 @@
+#================================================================
+# A minimal git ignore to strip out generated files for Verifone
+# development.
+#================================================================
+
+/bin
+
+
+*.bak
+*~
+*.swp
+
+
